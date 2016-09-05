@@ -20,7 +20,7 @@
 
 Initially the only data saved are polls, containing a question, a short URL, responses, and their vote totals. Their structure is outlined below.
 
-```
+```js
 {
   id: String,
   url: String,
